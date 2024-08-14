@@ -10,7 +10,7 @@ Easily reuse your echarts charts in vue3.
 npm install vue-use-charts
 ```
 
-<!-- 依赖vue3和echarts -->
+
 ## 🛠️ Dependencies
 
 [Vue](https://vuejs.org/)
@@ -43,7 +43,7 @@ const echartsOpts = {
 ## Thanks
 - [vue3](https://github.com/vuejs/core)
 - [echarts](https://github.com/apache/echarts)
--
+
 ## License
 
 MIT
