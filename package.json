@@ -1,0 +1,27 @@
+{
+    "name": "use-charts",
+    "version": "1.0.4",
+    "license": "MIT",
+    "description": "vue3 chart library",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mchao123/use-charts.git"
+    },
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "type": "module",
+    "scripts": {
+        "build": "tsc"
+    },
+    "author": "ZhangSan",
+    "peerDependencies": {
+        "typescript": "^5.2.2"
+    },
+    "devDependencies": {
+        "typescript": "^5.2.2"
+    },
+    "dependencies": {
+        "echarts": "^5.4.3",
+        "vue": "^3.4.37"
+    }
+}
