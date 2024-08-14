@@ -23,5 +23,10 @@
     "dependencies": {
         "echarts": "^5.4.3",
         "vue": "^3.4.37"
-    }
+    },
+    "keywords": [
+        "vue3",
+        "echarts",
+        "chart"
+    ]
 }
