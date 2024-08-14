@@ -1,25 +1,27 @@
 # use-charts
 
-## Description
+## 📖 Description
 
 Easily reuse your echarts charts in vue3.
 
-## Install
+## 📦 Install
 
 ```bash
-npm install use-charts
+npm install vue-use-charts
 ```
 
 <!-- 依赖vue3和echarts -->
-## Dependencies
+## 🛠️ Dependencies
 
-vue3 + echarts
+[Vue](https://vuejs.org/)
+[Echarts](https://echarts.apache.org/)
 
-## Usage
+
+## 🤖 Usage
 
 ```ts
 import { ref } from 'vue'
-import { useCharts } from 'use-charts'
+import { useCharts } from 'vue-use-charts'
 import { ChartDemo } from './charts/demo'
 
 const { createChartComp } = useCharts()
@@ -41,7 +43,7 @@ const echartsOpts = {
 ## Thanks
 - [vue3](https://github.com/vuejs/core)
 - [echarts](https://github.com/apache/echarts)
-
+-
 ## License
 
 MIT
